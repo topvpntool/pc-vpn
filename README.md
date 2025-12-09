@@ -10,7 +10,7 @@
 
 > - 1.[StrongVPN](https://overwallvpn.com/go/strongvpn)：是最快电脑VPN，提供了30天退款保障。它可以帮助用户快速稳定地在中国翻墙，同时提供高速的连接和无限带宽。
 > - 2.[PureVPN](https://overwallvpn.com/go/purevpn)：是最便宜的电脑VPN，每月低至$2。它可以解锁Netflix和支持种子下载，并提供31天退款保障，是一个经济实惠的选择。
-> - 3.[Surfshark](https://overwallvpn.com/go/surfshark)：支持无限设备，适用于电脑用户，并能有效地绕过互联网限制。它提供30天退款保障，拥有独特的翻墙模式。
+> - 3.[NordVPN](https://overwallvpn.com/go/nordvpn)：支持无限设备，适用于电脑用户，并能有效地绕过互联网限制。它提供30天退款保障，拥有独特的翻墙模式。
 
 我们从上数十款VPN软件中挑选出这几款最佳PC端VPN软件，除了在PC端好用之外，这些电脑VPN还支持常见的Mac、Linux、iOS和Android平台，以及Firefox和Chrome浏览器扩展插件。此外，它们还能支持PS5、Switch和Xbox设备，可以在路由器上设置VPN，方便所有其他设备的使用，同时在Windows 7/8/10/11上也有良好的兼容性。因此，这些VPN软件几乎能覆盖电脑、手机、平板等所有常见平台。
 
