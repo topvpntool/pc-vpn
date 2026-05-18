@@ -299,3 +299,7 @@ ExpressVPN的使用界面简单直观，支持中文显示，用户可以通过W
 -   [StrongVPN在国内能用吗？实测结果揭晓StrongVPN怎么样！](https://github.com/topvpntool/strongvpn-review)：实测结果揭晓StrongVPN怎么样 在众多的翻墙工具中，StrongVPN凭借其安全、稳定的特性吸引了不少用户的关注
 -   [Surfshark VPN怎么样？适合翻墙吗？实测中国大陆使用情况](https://github.com/topvpntool/surfshark-review)：适合翻墙吗 实测中国大陆使用情况
 -   [全球VPN节点推荐，如何选择最合适的VPN节点翻墙](https://github.com/topvpntool/vpn-server)：无论是工作、娱乐，还是和朋友、家人保持联系，网络已经成了我们日常生活中必不可少的一部分 然而，随着越来越多的在线平台和服务根据地理位置限制内容，许多人发现自己在访问全球数字资源时常常会被“拦路虎”挡住
+
+## 网友评论
+
+- 我平时主要用来查资料、看 GitHub 和 ChatGPT，对延迟要求没那么高，但稳定性一定要够。
